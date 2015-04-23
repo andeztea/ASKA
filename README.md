@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Twitter bootstrap 3 admin template
 
@@ -20,3 +21,7 @@ Browsers:
 - Latest Firefox
 - Latest Opera
 - Latest Safari
+=======
+# aska
+Administrasi System Kepegawaian
+>>>>>>> 0c5450982cc9f258ed2d61347d8064c9dca8fef2

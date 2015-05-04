@@ -356,10 +356,9 @@ INSERT INTO `status` (`id`, `nip`, `berita`, `tipe`, `time`) VALUES
 (31, '1235', 'sadsadasdasdasdsdasd', 1, '2015-04-21 04:42:27'),
 (32, '1235', 'hahahahahaa coba pikir', 1, '2015-04-21 06:25:24'),
 (33, '1235', 'aku disini menunggu berharap kau ada disini', 1, '2015-04-21 06:40:29'),
-(34, '1235', 'henceut bereum', 1, '2015-04-21 06:53:12'),
-(35, '1235', 'fungsi hapus belom jalan nih...masih bingung', 1, '2015-04-21 08:17:39'),
-(36, '1235', 'Untuk Comment belum bisa', 1, '2015-04-21 09:32:33'),
-(37, '1236', 'comment belum fungsi', 1, '2015-04-21 14:30:34');
+(34, '1235', 'fungsi hapus belom jalan nih...masih bingung', 1, '2015-04-21 08:17:39'),
+(35, '1235', 'Untuk Comment belum bisa', 1, '2015-04-21 09:32:33'),
+(36, '1236', 'comment belum fungsi', 1, '2015-04-21 14:30:34');
 
 -- --------------------------------------------------------
 
